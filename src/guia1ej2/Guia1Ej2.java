@@ -16,7 +16,7 @@ public class Guia1Ej2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Primer commin en GitHub");
+        System.out.println("Primer commint en GitHub");
     }
     
 }
